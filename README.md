@@ -10,7 +10,7 @@ git commit
 [The main frame for this project](/project/bat_frame.html)
 
 
-**This project is devided into four parts. **
+**This project is devided into four parts.
 [-Home](/project/bat1.html)
 [-Introduction](/project/background.html)
 [-Hypothesis](/project/hypothesis.html)
