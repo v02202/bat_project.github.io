@@ -7,4 +7,4 @@ git status
 git add
 git commit
 ```
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[This is the website.](/project/bat_frame.html)
