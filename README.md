@@ -1,6 +1,12 @@
 # Bat_project
 This webiste is about my thesis concept, "Influences of temperature variability on the trait-based community assembly of bats in Taiwan"
 
+## Preview
+
+[![Stylish Portfolio Preview](/project/background.png)](https://mcom.tw/v02202/project/bat_frame.html)
+
+**[View Live Preview](https://mcom.tw/v02202/project/bat_frame.html/)**
+
 
 ##Take a look of this website!
 Visit https://mcom.tw/v02202/project/bat_frame.html
