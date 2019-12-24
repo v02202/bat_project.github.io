@@ -3,15 +3,14 @@ This webiste is about my thesis concept, "Influences of temperature variability 
 
 ## Preview
 
-[![Stylish Portfolio Preview](/project/background.png)](https://mcom.tw/v02202/project/bat_frame.html)
+[![Stylish Portfolio Preview](/project/fig/background.png)](https://mcom.tw/v02202/project/bat_frame.html)
 
 **[View Live Preview](https://mcom.tw/v02202/project/bat_frame.html/)**
 
 
-##Take a look of this website!
-Visit https://mcom.tw/v02202/project/bat_frame.html
 
-##The basic workframe is following:
+
+## The basic workframe is following:
 
 Main frame:
 [frame](/project/bat_frame.html)
