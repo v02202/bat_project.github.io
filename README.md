@@ -7,4 +7,11 @@ git status
 git add
 git commit
 ```
-[This is the website.](/project/bat_frame.html)
+[The main frame for this project](/project/bat_frame.html)
+
+
+**This project is devided into four parts. **
+[-Home](/project/bat1.html)
+[-Introduction](/project/background.html)
+[-Hypothesis](/project/hypothesis.html)
+[-Method](/project/method.html)
