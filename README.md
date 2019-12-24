@@ -11,8 +11,8 @@ Main frame:
 [frame](/project/bat_frame.html)
 
 The content:
-[Home](/project/bat1.html)
-[Introduction](/project/background.html)
-[Hypothesis](/project/hypothesis.html)
-[Method](/project/method.html)
+-[Home](/project/bat1.html)
+-[Introduction](/project/background.html)
+-[Hypothesis](/project/Hypothesis/hypothesis.html)
+-[Method](/project/Method/method_new.html)
 
