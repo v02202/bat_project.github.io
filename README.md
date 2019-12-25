@@ -3,9 +3,9 @@ This webiste is about my thesis concept, "Influences of temperature variability 
 
 ## Preview
 
-[![Stylish Portfolio Preview](/project/fig/background.png)](https://mcom.tw/v02202/project/bat_frame.html)
+[![Stylish Portfolio Preview](/project/fig/background.png)](/project/bat_frame.html)
 
-**[View Live Preview](https://mcom.tw/v02202/project/bat_frame.html/)**
+**[View Live Preview](/project/bat_frame.html)**
 
 
 
