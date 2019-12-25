@@ -3,7 +3,7 @@ This webiste is about my thesis concept, "Influences of temperature variability 
 
 ## Preview
 
-[![Stylish Portfolio Preview](/project/fig/background.png)](/project/bat_frame.html)
+[![Stylish Portfolio Preview](preview.PNG)](/project/bat_frame.html)
 
 **[View Live Preview](/project/bat_frame.html)**
 
